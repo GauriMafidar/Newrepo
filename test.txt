@@ -2,5 +2,8 @@ line1
 line2
 This is line 3
 This is line 4
+Adding new line1
+Adding new line2
 New line added from teamA
 One more line from teamA
+
